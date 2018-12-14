@@ -1,0 +1,7 @@
+com\demo\example\mapper\ContactMapperImpl.class
+com\demo\example\mapper\ContactMapperImpl_.class
+com\demo\example\pojo\PrimaryContact.class
+com\demo\example\ContactConvertor.class
+com\demo\example\mapper\ContactMapper.class
+com\demo\example\mapper\ContactMapperDecorator.class
+com\demo\example\pojo\BusinessContact.class
